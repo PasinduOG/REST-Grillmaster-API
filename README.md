@@ -437,7 +437,7 @@ This project is licensed under the **MIT License**.
 
 **Pasindu Owa Gamage**
 - GitHub: [@PasinduOG](https://github.com/PasinduOG)
-- Email: your.email@example.com
+- Email: pasinduogdev@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -457,7 +457,7 @@ If you have any questions or need help, please:
 
 ---
 
-**Made with ❤️ and dev by OG**
+**Made with ❤️ and Dev by OG**
 
 **Happy Coding! 🚀**
 
